@@ -14,6 +14,7 @@ pip install tk</h2>
 
 <hr>
 <h1>Türkçe</h1>
+<hr>
 <h2>Hesap Makinesi</h2>
 <hr>
 
